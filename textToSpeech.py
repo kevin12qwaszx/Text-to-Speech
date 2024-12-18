@@ -3,6 +3,8 @@ import tkinter
 
 #pip install speechrecognition
 #pip install pyttsx3 --user
+#pip install pyaudio
+
 
 
 # Defining main function
