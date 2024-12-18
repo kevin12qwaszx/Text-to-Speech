@@ -1,6 +1,7 @@
 import pyttsx3
 import tkinter
 
+#pip install speechrecognition
 #pip install pyttsx3 --user
 
 
@@ -43,7 +44,6 @@ def main():
     frame.pack()
 
     root.mainloop()
-    print(entry )
     
     
 
